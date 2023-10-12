@@ -36,4 +36,6 @@ Open one terminal for the server and one or more terminal for the clients.
 * Admin:
     * Username = admin
     * Password to retrieve private key = admin
-    * Service password for the login = admin 
+    * Service password for the login = admin
+## Coding Languages:
+![Languages](https://skillicons.dev/icons?i=cpp&theme=light)
